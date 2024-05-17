@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Harry.
 - I'm currently working on an fullstack e-learning platform created with React and Node.js. 
 - 🌱 I’m learning Typescript to build on my current JS skills.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Check out some other projects here on Github or contact me via Linkedin (https://www.linkedin.com/in/h-bann/)
 - 😄 Pronouns: he/him
 
