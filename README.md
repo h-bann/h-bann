@@ -24,7 +24,7 @@ Right now, I’m always looking for ways to improve and learn. Whether it’s op
 - Security – Keeping applications secure is a big priority for me, alongside speed and performance.
 - Learning New Tools – The tech world is always changing, and I aim to keep up with the latest trends and tools that can make development even better. 
 
-Feel free to check out my projects or contact me via Linkedin (https://www.linkedin.com/in/h-bann/) for a chat!
+Feel free to check out my pinned projects or contact me via Linkedin (https://www.linkedin.com/in/h-bann/) for a chat!
 
 <!---
 h-bann/h-bann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
