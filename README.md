@@ -15,7 +15,7 @@ Back End:
 - **MySQL** is my go-to for managing data—it’s reliable and gets the job done efficiently.
 
 
-My pinned projects show all of this at work. Feel free to contact me via Linkedin (https://www.linkedin.com/in/h-bann/)
+My pinned projects show all of this at work. Feel free to contact me via Linkedin (https://www.linkedin.com/in/harry--bannister/)
 
 <!---
 h-bann/h-bann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
