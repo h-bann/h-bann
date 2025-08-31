@@ -12,7 +12,7 @@ Front End:
  
 Back End:
 - I use **Node.js** and initially learnt to use **Express** to handle the server side, building scalable applications that are secure and performant. More recently, I've been using **NextJS** for all things server. 
-- **MySQL** is my go-to for managing data—it’s reliable and gets the job done efficiently.
+- **MySQL** is my go-to for managing data as it’s reliable and gets the job done efficiently.
 
 
 My pinned projects show all of this at work. Feel free to contact me via Linkedin (https://www.linkedin.com/in/harry--bannister/)
